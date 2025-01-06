@@ -14,51 +14,35 @@
     │
     ├── bio.txt
     │   ├── he/him - brazilian - (pt/br + english(practitioner))
-    │   ├── software developer
-    │   ├── I like to solve problems using programming
+    │   ├── frontend developer
     │   ├── born reader and writer
     │   ├── music lover
     │   ├── sports practitioner
-    │   ├── a good cook
-    │   ├── my email addres: joaogabrielcontato7@gmail.com
+    │   ├── contact: gabscode1@gmail.com
     │
     ├── os
     │└── windows.txt
     │       └── Windows 10
     │
-    ├── languages
-    │   ├── Java.java
+    ├── technologies
+    │   ├── HTML.html
+    │   ├── CSS.css
+    │   ├── SCSS.scss
+    │   ├── JavaScript.js
+    │   ├── TypeScript.ts
     │   ├── Python.py
     │   ├── PHP.php
-    │   ├── JavaScript.js
-    │   ├── C.c
-    │   ├── C++.cpp
-    │   └── C#.cs
-    │   └── Golang.go
-    │   └── HTML.html
-    │   └── CSS.css
-    │
-    ├── frameworks
-    │  ├── SpringBoot.java (learning)
-    │  ├── Django.py
-    │  ├── Laravel.php
-    │  ├── Node.js
-    │  ├── Express.js
-    │
+    │   └── Django.py
+    │   └── Laravel.py
+    │   └── Node.js
+    │   └── Express.js
+    │   └── Tailwind.css
+    │   └── React.js
+    │   └── Next.js
+    │   └── Vue.js
     ├── database
     │  ├── MySQL
     │  ├── PostgreSQL (learning)
-    │
-    ├── IDE's
-    │  ├── VScode
-    │  ├── MySQL Workbench
-    │  ├── NetBeans
-    │  ├── Intellij idea
-    │  ├── Eclipse
-    │  ├── PyCharm
-    │
-    ├── cloud platform
-    │  ├── AWS
     
   </tr>
 </table>
