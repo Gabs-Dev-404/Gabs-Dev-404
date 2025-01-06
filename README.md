@@ -16,7 +16,6 @@
     │   ├── he/him - brazilian - (pt/br + english(practitioner))
     │   ├── frontend developer
     │   ├── born reader and writer
-    │   ├── music lover
     │   ├── sports practitioner
     │   ├── contact: gabscode1@gmail.com
     │
