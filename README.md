@@ -23,7 +23,7 @@
     │└── windows.txt
     │       └── Windows 10
     │
-    ├── technologies
+    ├── languages & frameworks
     │   ├── HTML.html
     │   ├── CSS.css
     │     └── SCSS
