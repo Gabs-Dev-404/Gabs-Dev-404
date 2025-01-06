@@ -26,19 +26,21 @@
     ├── technologies
     │   ├── HTML.html
     │   ├── CSS.css
-    │   ├── SCSS.scss
+    │     └── SCSS
+    │     └── Tailwind
+    │     └── Bootstrap
     │   ├── JavaScript.js
+    │     └── React
+    │     └── Next
+    │     └── Vue
+    │     └── Node
+    │     └── Express
     │   ├── TypeScript.ts
     │   ├── Python.py
+    │     └── Django
     │   ├── PHP.php
-    │   └── Django.py
-    │   └── Laravel.py
-    │   └── Node.js
-    │   └── Express.js
-    │   └── Tailwind.css
-    │   └── React.js
-    │   └── Next.js
-    │   └── Vue.js
+    │     └── Laravel
+    │ 
     ├── database
     │  ├── MySQL
     │  ├── PostgreSQL (learning)
