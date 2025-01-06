@@ -35,7 +35,8 @@
     │     └── Vue
     │     └── Node
     │     └── Express
-    │   ├── TypeScript.ts
+    │     └── Angular
+    │     └── TypeScript.ts
     │   ├── Python.py
     │     └── Django
     │   ├── PHP.php
