@@ -13,7 +13,7 @@
     /About_Me
     │
     ├── bio.txt
-    │   ├── he/him - brazilian - (pt/br + english(practitioner))
+    │   ├── brazilian - (pt/br + english(practitioner))
     │   ├── frontend developer
     │   ├── born reader and writer
     │   ├── sports practitioner
